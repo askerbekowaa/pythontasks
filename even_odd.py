@@ -8,5 +8,5 @@ for num in numbers:
     else:
         odd_numbers.append(num)
         
-print("Четные числа: ", even_numbers)
+print("Ччетные числа: ", even_numbers)
 print("Нечетные числа: ", odd_numbers)
