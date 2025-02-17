@@ -8,5 +8,5 @@ for num in numbers:
     if num < min_num:
         min_num = num
         
-print("Наибольшее число: ", max_num)
+print("Наибольшее ччисло: ", max_num)
 print("Наименьшее число: ", min_num)
